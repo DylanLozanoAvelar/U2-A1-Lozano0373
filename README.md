@@ -13,7 +13,14 @@ For help getting started with Flutter, view our
 https://flutter.dev/docs, which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Diseño en FlutLab - Flutter Online IDE
+- Dylan Lozano Avelar
+- a.21308051280373@cbtis128.edu.mx
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Links de Referencia
+- Codesinsider: https://codesinsider.com/flutter-appbar-example-tutorial/
+- Classroom: https://classroom.google.com/c/NjYyMDYzNDczODI5/a/NjcwMDc5NzA2NTIw/details 
+
+## Resultado de la aplicacion
+![image](https://github.com/DylanLozanoAvelar/U2-A1-Lozano0373/assets/143743272/650f718c-0d9e-476c-a76c-c5dea783ab05)
+
